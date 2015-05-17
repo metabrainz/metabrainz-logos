@@ -16,7 +16,7 @@
 <metadata>
 	<sfw  xmlns="&ns_sfw;">
 		<slices></slices>
-		<sliceSourceBounds  height="39.137" width="62.732" y="-919.415" x="3012" bottomLeftOrigin="true"></sliceSourceBounds>
+		<sliceSourceBounds  height="28" width="61.41" y="-914" x="3012" bottomLeftOrigin="true"></sliceSourceBounds>
 	</sfw>
 </metadata>
 <g>
@@ -26,6 +26,15 @@
 		<polygon fill="#4E7EC2" points="14,1 2,8 2,22 14,29 		"/>
 		<polygon fill="#EB743B" points="15,1 27,8 27,22 15,29 		"/>
 	</g>
-	<text transform="matrix(1 0 0 1 29.5996 25)"><tspan x="0" y="0" fill="#4E7EC2" font-family="'RobotoCondensed-Bold'" font-size="34.743">a</tspan><tspan x="18.118" y="0" fill="#EB743B" font-family="'RobotoCondensed-Bold'" font-size="34.743">b</tspan></text>
+	<g>
+		<path fill="#4E7EC2" d="M41.543,21.251h-5.836L34.638,25h-4.801l6.531-19.764h4.496L47.463,25h-4.817L41.543,21.251z
+			 M36.759,17.638h3.715l-1.883-6.379L36.759,17.638z"/>
+		<path fill="#EB743B" d="M49.278,25V5.236h6.718c2.308,0,4.068,0.467,5.285,1.399c1.215,0.934,1.823,2.288,1.823,4.063
+			c0,1.007-0.221,1.883-0.662,2.629c-0.44,0.747-1.091,1.296-1.95,1.646c0.927,0.271,1.646,0.789,2.154,1.553
+			s0.764,1.699,0.764,2.808c0,1.968-0.571,3.404-1.714,4.309C60.554,24.548,58.835,25,56.539,25H49.278z M54.079,13.447h2.308
+			c1.277-0.034,1.917-0.713,1.917-2.036c0-0.78-0.159-1.337-0.476-1.671c-0.316-0.333-0.803-0.5-1.459-0.5h-2.29V13.447z
+			 M54.079,16.789v4.258h2.46c0.667,0,1.179-0.181,1.535-0.545c0.356-0.362,0.534-0.862,0.534-1.499c0-1.43-0.576-2.168-1.729-2.214
+			H54.079z"/>
+	</g>
 </g>
 </svg>
