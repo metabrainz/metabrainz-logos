@@ -2,7 +2,7 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
 <svg
-   xmlns:ns="&amp;ns_sfw;"
+   xmlns:ns="&amp;#38;ns_sfw;"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -14,9 +14,9 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   width="127"
-   height="144"
-   viewBox="0 0 127 144"
+   width="154.28571"
+   height="154.28572"
+   viewBox="0 0 154.2857 154.28572"
    enable-background="new 0 0 680 150"
    xml:space="preserve"
    inkscape:version="0.91 r13725"
@@ -30,7 +30,7 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
+     inkscape:window-width="850"
      inkscape:window-height="480"
      id="namedview4425"
      showgrid="false"
@@ -39,7 +39,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.53088235"
-     inkscape:cx="337.322"
+     inkscape:cx="91.256497"
      inkscape:cy="71.823"
      inkscape:window-x="52"
      inkscape:window-y="31"
@@ -54,15 +54,16 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><g
      id="g4247"
-     transform="translate(-2.678,-2.823)" /><g
+     transform="translate(-2.678,7.4627078)" /><g
      id="g4249"
-     transform="translate(-2.678,-2.823)"><g
-       id="g4251"><g
+     transform="translate(-2.678,7.4627078)"><g
+       id="g4251"
+       transform="translate(13.642853,-5.1428474)"><g
          id="g4253"><polygon
-           points="129.678,37.823 68.678,2.823 68.678,146.823 129.678,111.823 "
+           points="129.678,111.823 129.678,37.823 68.678,2.823 68.678,146.823 "
            id="polygon4255"
            style="fill:#eb743b" /><polygon
-           points="63.678,146.823 63.678,2.823 2.678,37.823 2.678,111.823 "
+           points="2.678,111.823 63.678,146.823 63.678,2.823 2.678,37.823 "
            id="polygon4257"
            style="fill:#4e7ec2" /><g
            id="g4259"><g
