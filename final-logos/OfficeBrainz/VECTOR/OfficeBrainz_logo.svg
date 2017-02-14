@@ -2,7 +2,7 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
 <svg
-   xmlns:ns="&amp;#38;ns_sfw;"
+   xmlns:ns="&amp;#38;#38;ns_sfw;"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -20,7 +20,7 @@
    enable-background="new 0 0 585 150"
    xml:space="preserve"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="officebrainz.svg"
+   sodipodi:docname="OfficeBrainz_logo.svg"
    inkscape:export-filename="/Users/carolinegschwend/Desktop/metabrainz.png"
    inkscape:export-xdpi="165.1915"
    inkscape:export-ydpi="165.1915"><defs
@@ -33,17 +33,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1791"
-     inkscape:window-height="935"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
      id="namedview3584"
-     showgrid="false"
-     inkscape:zoom="1.4064576"
-     inkscape:cx="182.87668"
-     inkscape:cy="87.687259"
+     showgrid="true"
+     inkscape:zoom="1.1893899"
+     inkscape:cx="244.93902"
+     inkscape:cy="75"
      inkscape:window-x="-4"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="Layer_1" /><metadata
+     inkscape:current-layer="Layer_1"><inkscape:grid
+       type="xygrid"
+       id="grid4179" /></sodipodi:namedview><metadata
      id="metadata3482"><ns:sfw><ns:slices /><ns:sliceSourceBounds
          height="144"
          width="539.528"
@@ -188,32 +190,32 @@
        id="rect5556"
        style="fill:#e3c604;fill-opacity:1" /></g><text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:72.43611908px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffde00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:auto"
-     x="134.44141"
-     y="104.03704"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72.43611908px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ffde00;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:auto"
+     x="152.21657"
+     y="102.13699"
      id="text4505"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       x="134.44141"
-       y="104.03704"
+       x="152.21657"
+       y="102.13699"
        id="tspan4507"><tspan
-         x="134.44141"
-         y="104.03704"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffde00;fill-opacity:1"
+         x="152.21657"
+         y="102.13699"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#ffde00;fill-opacity:1"
          id="tspan4509">Office</tspan></tspan></text>
 <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:72.42500305px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#eb743b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="331.3298"
-     y="103.64333"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72.42500305px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#eb743b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="352.66"
+     y="101.97629"
      id="text4511"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       x="331.3298"
-       y="103.64333"
+       x="352.66"
+       y="101.97629"
        id="tspan4513"><tspan
-         x="331.3298"
-         y="103.64333"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:72.42500305px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#eb743b;fill-opacity:1"
+         x="352.66"
+         y="101.97629"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72.42500305px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#eb743b;fill-opacity:1"
          id="tspan4515">Brainz</tspan></tspan></text>
 </svg>
