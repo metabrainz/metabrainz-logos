@@ -6,7 +6,7 @@ All logos in this repository are released under the [Creative Commons Attributio
 
 <hr>
 <div>
-<img src="logos/All%20Logos/MetaBrainz.svg" alt="MetaBrainz" width="250px "width="100%">
+<img src="logos/All%20Logos/MetaBrainz.svg" alt="MetaBrainz" height="300" width="100%">
 </div>
 
 <div>
