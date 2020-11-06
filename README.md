@@ -1,9 +1,15 @@
-# metabrainz-logos
+# Metabrainz logos repository
 All of the logos, concept drawings and iterations of our logo redesign.
 
-<div style="text-align:center; width: auto;"><img src="logos/All%20Logos/MetaBrainz.svg" alt="MetaBrainz" width="400"></div>
+## License
+All logos in this repository are released under the [Creative Commons Attribution-ShareAlike(BY-SA) 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+
 <hr>
-<div style="display:flex; flex-wrap:wrap; justify-content: space-between;">
+<div>
+<img src="logos/All%20Logos/MetaBrainz.svg" alt="MetaBrainz" width="250px "width="100%">
+</div>
+
+<div>
   <img src="logos/All%20Logos/MusicBrainz.svg" alt="MusicBrainz" width="200">
   <img src="logos/All%20Logos/ListenBrainz.svg" alt="ListenBrainz" width="200">
   <img src="logos/All%20Logos/BookBrainz.svg" alt="BookBrainz" width="200">
