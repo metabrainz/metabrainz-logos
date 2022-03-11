@@ -53,5 +53,8 @@ Although the icons should never be smaller than the minimum sizes\*, you may inc
 ><img src="documentation/images/dont_opacity.png" alt="logo at half opacity" height="33px"></br>
 >*Don't* change the logo opacity
 
+><img src="documentation/images/dont_background.png" alt="logo with checkered background" height="33px"></br>
+>*Don't* use the logo on a busy or colorful background
+
 # License
 All logos in this repository are released under the [Creative Commons Attribution-ShareAlike(BY-SA) 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
