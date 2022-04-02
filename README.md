@@ -26,9 +26,9 @@ Although the icons should never be smaller than the minimum sizes\*, you may inc
 >*Brainz icon / Brainz logo mini*</br>
 >No minimum
 
-><img src="icons/metabrainz-icon-detail.svg" alt="MetaBrainz icon detail" height="34px"> / <img src="logos/MetaBrainz/SVG/MetaBrainz_logo_small.svg" alt="MetaBrainz logo small" height="33px"></br>
+><img src="icons/metabrainz-icon-detail.svg" alt="MetaBrainz icon detail" height="34px"> / <img src="logos/MetaBrainz/SVG/MetaBrainz_logo_small.svg" alt="MetaBrainz logo small" height="32px"></br>
 >*Brainz icon detail / Brainz logo small*</br>
->Minimum height: 33px/12mm</br>
+>Minimum height: 32px/12mm</br>
 >Under this size details can get unclear and distracting, particularly for visually impaired users.
 
 ><img src="logos/MetaBrainz/SVG/MetaBrainz_logo_no_text.svg" alt="MetaBrainz logo no text" height="58px"> / <img src="logos/MetaBrainz/SVG/MetaBrainz_logo.svg" alt="MetaBrainz logo" height="55px"></br>
