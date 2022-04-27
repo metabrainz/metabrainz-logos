@@ -1,3 +1,5 @@
+⚠️ DEPRECATED: This repository has been deprecated - **logos** are now part of the **[MetaBrainz Design System](https://github.com/metabrainz/design-system)**
+
 # Metabrainz logos repository
 All of the logos, concept drawings and iterations of our logo redesign.
 
